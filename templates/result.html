@@ -197,11 +197,11 @@
     <!-- Menampilkan hasil prediksi berdasarkan win percentage -->
     <div class="mt-4 text-center">
         <h4>Result :</h4>
-        {% if result['prediction'][0] == 'Kalah' or result['prediction'][0] == 1 %}
+        {% if result['prediction'][0] == 'Menang' or result['prediction'][0] == 0 %}
             <div class="prediction-result success-result">
                 Team 1 is predicted to win!
             </div>
-        {% elif result['prediction'][0] == 'Menang' or result['prediction'][0] == 0 %}
+        {% elif result['prediction'][0] == 'Kalah' or result['prediction'][0] == 1 %}
             <div class="prediction-result danger-result">
                 Team 2 is predicted to win!
             </div>
