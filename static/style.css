@@ -1,0 +1,212 @@
+/* Global Styles */
+body {
+    font-family: 'Boldonse', sans-serif;
+    font-size: 0.8rem;
+    background-color: #002447;
+    margin: 0;
+    padding: 0;
+    color: #ffed92;
+}
+
+.background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 112%;
+    background-image: url('lod.jpg'); /* Ganti dengan path atau URL gambar */
+    background-size: cover; /* Gambar akan menutupi seluruh layar */
+    background-position: center center; /* Menempatkan gambar di tengah layar */
+    z-index: -1; /* Agar gambar berada di belakang konten */
+    opacity: 0.2; /* Membuat gambar samar, sesuaikan sesuai keinginan */
+}
+
+h1, h3, h4 {
+    font-family: 'Boldonse', sans-serif;
+    color: #ffed92;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+h3, h4 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+/* General Layout */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-success, .text-danger, .text-warning {
+    font-size: 1.2rem;
+}
+
+/* Buttons */
+button, .btn-primary {
+    background-color: #c78100; /* Green */
+    color: #ffed92;
+    padding: 8px 25px;
+    font-size: 1.1rem;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+button:hover, .btn-primary:hover {
+    background-color: #8c5b00; /* Darker Green */
+    color: #ffed92; 
+    transform: scale(1.05);
+}
+
+.btn-warning {
+    background-color: #ffc107; /* Yellow */
+    color: #ffed92;
+}
+
+.btn-warning:hover {
+    background-color: #e0a800; /* Darker Yellow */
+}
+
+/* Form Section */
+.form-select {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.form-select:focus {
+    border-color: #28a745; /* Green focus border */
+}
+
+/* Collapse Section */
+.collapse table {
+    width: 100%;
+    margin-top: 10px;
+    background-color: #f8f9fa;
+}
+
+table th, table td {
+    padding: 10px;
+    text-align: left;
+}
+
+table th {
+    background-color: #e9ecef;
+    color: #495057;
+}
+
+/* List group */
+ul.list-group {
+    margin-bottom: 20px;
+}
+
+.list-group-item {
+    border: none;
+    background-color: #fff;
+    padding: 10px 15px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.list-group-item:hover {
+    background-color: #e9ecef;
+    cursor: pointer;
+}
+
+.prediction-result {
+    display: inline-block; /* Agar tampil seperti tombol */
+    padding: 10px 20px; /* Spasi di dalam elemen */
+    font-size: 1rem; /* Ukuran font */
+    border-radius: 10px; /* Membuatnya melengkung seperti tombol */
+    color: white; /* Warna teks putih */
+    cursor: default; /* Agar tidak ada perubahan cursor */
+    margin-top: 10px;
+}
+
+/* Gaya untuk hasil kemenangan tim 1 */
+.success-result {
+    background-color: #28a745; /* Warna hijau untuk kemenangan tim 1 */
+}
+
+/* Gaya untuk hasil kemenangan tim 2 */
+.danger-result {
+    background-color: #28a745; /* Warna merah untuk kemenangan tim 2 */
+}
+
+/* Gaya untuk hasil seri */
+.warning-result {
+    background-color: #ffc107; /* Warna kuning untuk seri */
+}
+
+.modal-content {
+    border-radius: 10px;
+    border: 1px solid #f44336; 
+}
+
+.modal-header {
+    background-color: #f44336; 
+    color: white; 
+}
+
+.modal-title {
+    font-weight: bold;
+}
+
+.modal-body {
+    color: #d32f2f;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.modal-header .btn-close {
+    background-color: transparent; 
+    border: none;
+    color: #fff; 
+    font-size: 1.5rem; 
+}
+
+.modal-header .btn-close:hover {
+    background-color: #ec3838; 
+    border: none;
+    color: #fff; 
+}
+
+.role-icon {
+    width: 30px;  /* Ukuran lebar yang lebih kecil */
+    height: 30px; /* Ukuran tinggi yang lebih kecil */
+    margin-right: 8px; /* Memberikan jarak antara ikon dan teks */
+    vertical-align: middle; /* Menjaga agar ikon sejajar dengan teks */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+    .col-md-6 {
+        margin-bottom: 20px;
+    }
+    .list-group-item {
+        padding: 12px 10px;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+    .btn-primary {
+        width: 40%;
+    }
+}

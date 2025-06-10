@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <!-- Mengimpor Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../static/style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Boldonse&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="background-image"></div>
+
+<div class="container mt-5">
+    <h1 class="text-center">Prediction Result</h1>
+
+    <div class="row">
+        <!-- Menampilkan informasi tim 1 -->
+        <div class="col-md-6">
+            <h3>Team 1</h3>
+            <ul class="list-group">
+                {% for hero, hero_data in result['team1_data'].items() %}
+                    <li class="list-group-item">
+                        <strong>{{ hero }}</strong><br>
+                        <button class="btn btn-info btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#{{ hero }}-details" aria-expanded="false" aria-controls="{{ hero }}-details">
+                            View Hero Data
+                        </button>
+                        <div class="collapse" id="{{ hero }}-details">
+                            <!-- Tabel data hero -->
+                            <table class="table mt-2">
+                                <tbody>
+                                    <tr>
+                                        <th>Role</th>
+                                        <td>{{ hero_data['Role'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Win Rate (%)</th>
+                                        <td>{{ hero_data['Win Rate (%)'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Popularity (%)</th>
+                                        <td>{{ hero_data['Popularity (%)'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ban Rate (%)</th>
+                                        <td>{{ hero_data['Ban Rate (%)'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Scaling Rating</th>
+                                        <td>{{ hero_data['Scaling Rating'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Cooldown Rating</th>
+                                        <td>{{ hero_data['Cooldown Rating'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Item Dependency Rating</th>
+                                        <td>{{ hero_data['Item Dependency Rating'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Mobility Rating</th>
+                                        <td>{{ hero_data['Mobility Rating'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Crowd Control Rating</th>
+                                        <td>{{ hero_data['Crowd Control Rating'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Base Stats Growth Rating</th>
+                                        <td>{{ hero_data['Base Stats Growth Rating'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ultimate Impact Rating (All Game Phases)</th>
+                                        <td>{{ hero_data['Ultimate Impact Rating_All Game Phases'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ultimate Impact Rating (Early Game)</th>
+                                        <td>{{ hero_data['Ultimate Impact Rating_Early Game'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ultimate Impact Rating (Late Game)</th>
+                                        <td>{{ hero_data['Ultimate Impact Rating_Late Game'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ultimate Impact Rating (Mid Game)</th>
+                                        <td>{{ hero_data['Ultimate Impact Rating_Mid Game'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ultimate Impact Rating (Support)</th>
+                                        <td>{{ hero_data['Ultimate Impact Rating_Support'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Strength Rating (%)</th>
+                                        <td>{{ hero_data['Strength Rating (%)'] }}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </li>
+                {% endfor %}
+            </ul>
+            <p class="mt-3"><strong>Win Percentage:</strong> {{ result['team1_win_percentage'] }}</p>
+        </div>
+
+        <!-- Menampilkan informasi tim 2 -->
+        <div class="col-md-6">
+            <h3>Team 2</h3>
+            <ul class="list-group">
+                {% for hero, hero_data in result['team2_data'].items() %}
+                    <li class="list-group-item">
+                        <strong>{{ hero }}</strong><br>
+                        <button class="btn btn-info btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#{{ hero }}-details" aria-expanded="false" aria-controls="{{ hero }}-details">
+                            View Hero Data
+                        </button>
+                        <div class="collapse" id="{{ hero }}-details">
+                            <!-- Tabel data hero -->
+                            <table class="table mt-2">
+                                <tbody>
+                                    <tr>
+                                        <th>Role</th>
+                                        <td>{{ hero_data['Role'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Win Rate (%)</th>
+                                        <td>{{ hero_data['Win Rate (%)'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Popularity (%)</th>
+                                        <td>{{ hero_data['Popularity (%)'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ban Rate (%)</th>
+                                        <td>{{ hero_data['Ban Rate (%)'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Scaling Rating</th>
+                                        <td>{{ hero_data['Scaling Rating'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Cooldown Rating</th>
+                                        <td>{{ hero_data['Cooldown Rating'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Item Dependency Rating</th>
+                                        <td>{{ hero_data['Item Dependency Rating'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Mobility Rating</th>
+                                        <td>{{ hero_data['Mobility Rating'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Crowd Control Rating</th>
+                                        <td>{{ hero_data['Crowd Control Rating'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Base Stats Growth Rating</th>
+                                        <td>{{ hero_data['Base Stats Growth Rating'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ultimate Impact Rating (All Game Phases)</th>
+                                        <td>{{ hero_data['Ultimate Impact Rating_All Game Phases'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ultimate Impact Rating (Early Game)</th>
+                                        <td>{{ hero_data['Ultimate Impact Rating_Early Game'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ultimate Impact Rating (Late Game)</th>
+                                        <td>{{ hero_data['Ultimate Impact Rating_Late Game'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ultimate Impact Rating (Mid Game)</th>
+                                        <td>{{ hero_data['Ultimate Impact Rating_Mid Game'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ultimate Impact Rating (Support)</th>
+                                        <td>{{ hero_data['Ultimate Impact Rating_Support'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Strength Rating (%)</th>
+                                        <td>{{ hero_data['Strength Rating (%)'] }}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </li>
+                {% endfor %}
+            </ul>
+            <p class="mt-3"><strong>Win Percentage:</strong> {{ result['team2_win_percentage'] }}</p>
+        </div>
+    </div>
+
+    <!-- Menampilkan hasil prediksi berdasarkan win percentage -->
+    <div class="mt-4 text-center">
+        <h4>Result :</h4>
+        {% if result['prediction'][0] == 'Menang' or result['prediction'][0] == 0 %}
+            <div class="prediction-result success-result">
+                Team 1 is predicted to win!
+            </div>
+        {% elif result['prediction'][0] == 'Kalah' or result['prediction'][0] == 1 %}
+            <div class="prediction-result danger-result">
+                Team 2 is predicted to win!
+            </div>
+        {% else %}
+            <div class="prediction-result warning-result">
+                It's a tie, both teams have equal chances!
+            </div>
+        {% endif %}
+    </div>   
+
+    <div class="text-center mt-4">
+        <a href="/" class="btn btn-primary">Back</a>
+    </div>
+</div>
+
+<!-- Mengimpor Bootstrap JS dan jQuery -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
+</body>
+</html>

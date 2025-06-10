@@ -1,0 +1,125 @@
+Hero Name;Win Rate (%);Popularity (%);Ban Rate (%);Hero ID;Roles;Specialties;Recommended Lane;Release year;Tier;Meta;Difficulty;Durability Rating;Ability Effects Rating;Offense Rating;Scaling Rating;Cooldown Rating;Item Dependency Rating;Mobility Rating;Crowd Control Rating;Base Stats Growth Rating;Ultimate Impact Rating;Column1;Gameplay;Sinergi
+Lolita;5809;25;81;1;Support/Tank;Guard/Crowd Control;Roaming;2016;C;N;Mudah;Keras;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;UBE;Setplay;5
+Hylos;5604;32;26;2;Tank;Guard;Roaming;2017;C;N;Mudah;Sangat Keras;Sakit;Normal;Moderate;Moderate;Moderate;Moderate;High;High;Mid Game;Tabrak;UBE;5
+Floryn;5588;57;466;3;Support;Poke;Roaming;2021;A;Y;Mudah;Lembek;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;High;High;Support;UBE;UBE;5
+Argus;557;49;117;4;Fighter;Charge;EXP Lane;2017;C;N;Mudah;Lembek;Tidak Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Ciki;Ciki;5
+Harith;555;102;3694;5;Mage;Chase;Mid Lane/Gold Lane;2018;SS;Y;Sulit;Sedang;Tidak Sakit;Sakit;Moderate;Fast;Moderate;High;Moderate;Moderate;All Game Phases;Tabrak;Setplay;5
+Barats;5496;78;3058;6;Tank/Fighter;Damage/Crowd Control;Jungling;2020;SS;Y;Mudah;Sangat Keras;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;All Game Phases;Tabrak;Setplay;5
+Edith;5453;48;34;7;Tank/Marksman;Control/Burst;EXP Lane/Roaming;2021;A;Y;Sedang;Keras;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Setplay;5
+Gatotkaca;5428;165;293;8;Tank/Fighter;Crowd Control/Burst;Roaming/EXP Lane;2017;D;N;Mudah;Keras;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Setplay;5
+Belerick;5425;81;464;9;Tank;Crowd Control;Roaming;2018;C;N;Mudah;Sangat Keras;Sakit;Normal;Moderate;Moderate;Moderate;Moderate;High;High;Mid Game;Tabrak;Tabrak;5
+Moskov;5422;283;1842;10;Marksman;Finisher;Gold Lane;2017;A;Y;Sedang;Lembek;Tidak Sakit;Normal;High;Moderate;High;Moderate;Moderate;Moderate;Late Game;UBE;Setplay;5
+Carmilla;5409;2;31;11;Support/Tank;Crowd Control/Damage;Roaming;2020;C;N;Mudah;Sedang;Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Setplay;5
+Khaleed;5384;36;23;12;Fighter;Damage;EXP Lane;2020;B;N;Sulit;Sedang;Sakit;Sakit;Moderate;Fast;Moderate;High;Moderate;Moderate;Mid Game;Tabrak;Setplay;5
+Masha;5337;4;3863;13;Fighter/Tank;Push/Damage;EXP Lane;2019;S;Y;Sedang;Sangat Keras;Tidak Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Tabrak;5
+Terizla;5328;9;127;14;Fighter/Tank;Burst/Crowd Control;EXP Lane;2019;A;Y;Mudah;Sangat Keras;Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Setplay;5
+Zhask;5315;65;177;15;Mage;Chase;Mid Lane;2017;D;N;Mudah;Sedang;Tidak Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Setplay;Setplay;5
+Popol and Kupa;5298;46;88;16;Marksman;Push;Jungling/Gold Lane;2020;C;N;Mudah;Lembek;Tidak Sakit;Normal;High;Moderate;High;Moderate;Moderate;Moderate;Late Game;Ciki;Ciki;5
+Aulus;5275;2;41;17;Fighter;Damage;Jungling;2021;D;N;Mudah;Lembek;Tidak Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Snowball;Snowball;5
+Melissa;5246;102;338;18;Marksman;Finisher;Gold Lane;2022;C;N;Sedang;Lembek;Normal;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Late Game;Snowball;Snowball;5
+Natan;5246;95;403;19;Marksman;Burst;Gold Lane;2021;SS;Y;Sedang;Lembek;Tidak Sakit;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;All Game Phases;Snowball;Snowball;5
+Minotaur;5237;103;2515;20;Tank/Support;Crowd Control/[[]];Roaming;2016;SS;Y;Mudah;Keras;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;All Game Phases;Tabrak;Setplay;5
+Gloo;5234;1;36;21;Tank;Regen;EXP Lane/Roaming;2021;B;N;Sedang;Sangat Keras;Normal;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;High;High;Mid Game;Tabrak;Tabrak;5
+Vale;5228;116;183;22;Mage;Burst;Mid Lane;2019;D;N;Sedang;Lembek;Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Setplay;Setplay;5
+Benedetta;5211;44;63;23;Assassin/Fighter;Chase/Burst;EXP Lane;2020;A;Y;Sulit;Lembek;Normal;Sakit;Moderate;Fast;Moderate;High;Moderate;Moderate;Mid Game;Ciki;Ciki;5
+Silvanna;5201;69;37;24;Fighter;Initiator;EXP Lane;2019;D;N;Mudah;Sedang;Normal;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Setplay;Setplay;5
+Harley;5186;96;2421;25;Assassin/Mage;Burst/Poke;Jungling;2017;C;N;Mudah;Lembek;Tidak Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Snowball;Snowball;5
+Uranus;5174;45;54;26;Tank;Regen;EXP Lane;2018;B;N;Mudah;Sangat Keras;Tidak Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;High;High;Mid Game;Tabrak;Tabrak;5
+Rafaela;5171;41;47;27;Support;Regen;Roaming;2016;A;Y;Mudah;Lembek;Tidak Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;High;High;Support;UBE;UBE;5
+Vexana;517;285;3978;28;Mage;Poke;Mid Lane;2017;SS;Y;Mudah;Lembek;Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;All Game Phases;Setplay;Setplay;5
+Roger;5162;187;1807;29;Fighter/Marksman;Finisher/Burst;Jungling;2017;S;Y;Sedang;Sedang;Tidak Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Setplay;5
+Angela;5158;19;3153;30;Support;Guard;Roaming;2018;SS;Y;Mudah;Lembek;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;High;High;All Game Phases;UBE;Tabrak;5
+Ling;5152;78;231;31;Assassin;Chase;Jungling;2019;A;Y;Sangat Sulit;Lembek;Normal;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Early Game;Tabrak;Snowball;5
+Alucard;5142;9;9;32;Fighter/Assassin;Chase/Damage;Jungling;2016;C;N;Mudah;Sedang;Tidak Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Tabrak;5
+Odette;5139;124;131;33;Mage;Burst;Mid Lane;2017;A;Y;Mudah;Lembek;Normal;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Setplay;Setplay;5
+Helcurt;5132;63;4111;34;Assassin;Push;Jungling;2017;B;Y;Sedang;Lembek;Sakit;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Early Game;Ciki;Ciki;5
+Sun;5131;116;668;35;Fighter;Push;EXP Lane/Jungling;2016;D;N;Mudah;Sedang;Tidak Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Ciki;Ciki;5
+Diggie;513;3;3805;36;Support;Guard;Roaming;2017;A;Y;Mudah;Lembek;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;High;High;Support;UBE;UBE;5
+Phoveus;5127;6;18;37;Fighter;Chase;EXP Lane;2021;B;Y;Sedang;Sedang;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Tabrak;5
+Fredrinn;5124;10;2554;38;Fighter/Tank;Damage/Chase;Jungling;2022;SS;Y;Mudah;Keras;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;All Game Phases;Tabrak;UBE;5
+Freya;5114;46;153;39;Fighter;Chase;EXP Lane;2016;B;N;Sedang;Sedang;Normal;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Ciki;Ciki;5
+Estes;5101;77;4976;40;Support;Regen;Roaming;2017;B;N;Mudah;Lembek;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;High;High;Support;UBE;UBE;5
+Ruby;5095;68;322;41;Fighter;Crowd Control;EXP Lane;2017;S;Y;Mudah;Sedang;Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;UBE;Tabrak;5
+Luo Yi;5091;75;255;42;Mage;Support;Mid Lane;2020;SS;Y;Sedang;Lembek;Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;All Game Phases;UBE;Setplay;5
+Natalia;5086;26;152;43;Assassin;Chase;Roaming;2016;D;Y;Sedang;Lembek;Tidak Sakit;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Early Game;Ciki;Ciki;5
+Alpha;5069;25;49;44;Fighter;Charge;Jungling/EXP Lane;2017;B;Y;Mudah;Sedang;Normal;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;UBE;Tabrak;5
+Ixia;5068;56;132;45;Marksman;Finisher;Gold Lane;2023;B;Y;Mudah;Lembek;Tidak Sakit;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Late Game;Snowball;Setplay;5
+X.Borg;5064;107;69;46;Fighter;Regen;EXP Lane/Jungling;2019;SS;Y;Mudah;Sedang;Normal;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;All Game Phases;Tabrak;UBE;5
+Minsitthar;5059;54;223;47;Fighter;Initiator;EXP Lane/Roaming;2018;B;N;Mudah;Lembek;Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Setplay;5
+Yin;5057;123;5381;48;Fighter/Assassin;Burst/Control;Jungling/EXP Lane;2022;C;N;Mudah;Lembek;Tidak Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Ciki;Ciki;5
+Hilda;5048;53;14;49;Fighter/Tank;Damage/Regen;Roaming/EXP Lane;2017;B;N;Mudah;Keras;Tidak Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Tabrak;5
+Lylia;5026;87;102;50;Mage;Push;Mid Lane;2019;A;Y;Sedang;Lembek;Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Tabrak;5
+Gord;5025;64;34;51;Mage;Poke;Mid Lane;2016;B;Y;Mudah;Lembek;Normal;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Saber;5024;114;1099;52;Assassin;Charge;Jungling/Roaming;2016;C;N;Mudah;Lembek;Normal;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Early Game;Hero Culik;Hero Culik;5
+Faramis;5019;22;141;53;Support/Mage;Guard/Charge;Mid Lane;2018;SS;Y;Sedang;Lembek;Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;All Game Phases;UBE;UBE;5
+Xavier;5017;52;17;54;Mage;Damage;Mid Lane;2022;B;N;Sedang;lembek;Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Aldous;5015;73;168;55;Fighter;Burst;EXP Lane;2018;D;N;Mudah;Sedang;Normal;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Mixed;Mixed;5
+Badang;5012;44;19;56;Fighter;Charge;EXP Lane;2019;D;N;Mudah;Sedang;Normal;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Mixed;Mixed;5
+Bane;5005;36;22;57;Fighter/Mage;Push/Burst;Jungling/EXP Lane;2016;C;N;Mudah;Lembek;Normal;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Johnson;4998;10;511;58;Tank/Support;Support/Crowd Control;Roaming;2017;D;N;Sedang;Keras;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Tabrak;5
+Hanzo;4997;24;349;59;Assassin;Burst;Jungling;2018;C;N;Mudah;Lembek;Normal;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Early Game;Hero Culik;Hero Culik;5
+Novaria;4992;89;318;60;Mage;Burst;Mid Lane;2023;SS;Y;Sangat Sulit;Lembek;Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;All Game Phases;Burst Damage;Burst Damage;5
+Thamuz;4975;91;206;61;Fighter;Chase;EXP Lane;2018;B;Y;Mudah;Keras;Tidak Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Mixed;Mixed;5
+Brody;4972;61;47;62;Marksman;Burst;Gold Lane;2020;A;Y;Sedang;Sedang;Normal;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Late Game;Split Push;Split Push;5
+Cyclops;4968;64;29;63;Mage;Poke;Mid Lane;2017;D;N;Mudah;Lembek;Normal;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Aamon;4963;44;8;64;Assassin;Chase;Jungling;2021;D;N;Sedang;Lembek;Tidak Sakit;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Early Game;Hero Culik;Hero Culik;5
+Lunox;4963;31;38;65;Mage;Burst;Mid Lane;2018;B;Y;Sulit;Lembek;Tidak Sakit;Sakit;Moderate;Fast;Moderate;High;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Esmeralda;4951;126;335;66;Mage/Tank;Regen/Mixed Damage;EXP Lane;2019;B;Y;Mudah;Keras;Tidak Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Tabrak;5
+Miya;4949;226;21;67;Marksman;Finisher;Gold Lane;2016;C;N;Mudah;Lembek;Tidak Sakit;Normal;High;Moderate;High;Moderate;Moderate;Moderate;Late Game;Split Push;Split Push;5
+Yu Zhong;4948;112;107;68;Fighter;Regen;EXP Lane;2020;S;Y;Sedang;Keras;Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Mixed;Mixed;5
+Layla;4948;264;428;69;Marksman;Finisher;Gold Lane;2016;D;N;Mudah;Lembek;Tidak Sakit;Normal;High;Moderate;High;Moderate;Moderate;Moderate;Late Game;Split Push;Split Push;5
+Tigreal;4945;185;6263;70;Tank;Crowd Control;Roaming;2016;A;Y;Sedang;Keras;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;High;High;Mid Game;Tabrak;Tabrak;5
+Atlas;4944;67;484;71;Tank;Crowd Control;Roaming;2020;D;N;Sedang;Sedang;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;High;High;Mid Game;Tabrak;Tabrak;5
+Irithel;4944;39;13;72;Marksman;Finisher;Gold Lane;2017;C;N;Mudah;Lembek;Tidak Sakit;Normal;High;Moderate;High;Moderate;Moderate;Moderate;Late Game;Split Push;Split Push;5
+Clint;4938;66;24;73;Marksman;Finisher;Gold Lane;2016;A;Y;Sedang;Lembek;Tidak Sakit;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Late Game;Split Push;Split Push;5
+Chang'e;493;12;114;74;Mage;Poke;Mid Lane;2018;D;N;Mudah;Lembek;Tidak Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Aurora;493;62;849;75;Mage;Crowd Control;Mid Lane;2017;D;N;Mudah;Lembek;Normal;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Granger;4922;67;4;76;Marksman;Burst;Jungling;2019;C;N;Sedang;Lembek;Tidak Sakit;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Late Game;Split Push;Split Push;5
+Valir;4917;108;723;77;Mage;Damage;Mid Lane;2018;D;N;Sedang;Lembek;Normal;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Julian;4915;38;49;78;Fighter/Mage;Chase/Magic Damage;Jungling;2022;C;N;Sedang;Sedang;Normal;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Khufra;4915;49;116;79;Tank;Initiator;Roaming;2019;B;Y;Sedang;Keras;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;High;High;Mid Game;Tabrak;Tabrak;5
+Nana;4914;251;5496;80;Mage;Poke;Mid Lane;2016;A;Y;Mudah;Lembek;Normal;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Baxia;4912;15;28;81;Tank;Support;Jungling;2019;S;Y;Sedang;Keras;Tidak Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;High;High;Mid Game;Tabrak;Tabrak;5
+Hanabi;4907;25;408;82;Marksman;Finisher;Gold Lane;2018;D;N;Mudah;Lembek;Tidak Sakit;Normal;High;Moderate;High;Moderate;Moderate;Moderate;Late Game;Split Push;Split Push;5
+Mathilda;4894;4;2958;83;Support/Assassin;Initiator/Guard;Roaming;2020;SS;Y;Sulit;Sedang;Sakit;Tidak Sakit;Moderate;Fast;Moderate;High;Moderate;Moderate;All Game Phases;UBE;UBE;5
+Dyrroth;4893;268;573;84;Fighter;Charge;EXP Lane/Jungling;2019;A;Y;Sulit;Sedang;Tidak Sakit;Sakit;Moderate;Fast;Moderate;High;Moderate;Moderate;Mid Game;Mixed;Mixed;5
+Kagura;4888;34;2;85;Mage;Poke;Mid Lane;2016;D;N;Sulit;Lembek;Normal;Sakit;Moderate;Fast;Moderate;High;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Kadita;4871;35;32;86;Mage/Assassin;Burst/Charge;Mid Lane;2018;B;Y;Sedang;Lembek;Normal;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Eudora;4871;9;145;87;Mage;Control;Mid Lane;2016;C;N;Mudah;Lembek;Tidak Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Yve;4869;7;1;88;Mage;Burst;Mid Lane;2021;B;N;Mudah;Lembek;Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Akai;4869;49;75;89;Tank;Guard;Roaming/Jungling;2016;A;Y;Sedang;Sedang;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;High;High;Mid Game;Tabrak;Tabrak;5
+Leomord;4865;12;8;90;Fighter;Chase;Jungling;2018;C;N;Sedang;Lembek;Normal;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Mixed;Mixed;5
+Pharsa;4843;55;3;91;Mage;Burst;Mid Lane;2017;B;N;Sedang;Lembek;Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Chip;4831;15;1485;92;Support/Tank;Support/Crowd Control;Roaming;2024;A;Y;Sedang;Sedang;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Tabrak;5
+Bruno;4826;64;23;93;Marksman;Finisher;Gold Lane;2016;A;Y;Sedang;Lembek;Tidak Sakit;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Late Game;Split Push;Split Push;5
+Martis;4825;134;1448;94;Fighter;Finisher;Jungling;2018;A;Y;Mudah;Sedang;Normal;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Mixed;Mixed;5
+Cecilion;4818;75;28;95;Mage;Poke;Mid Lane;2020;D;N;Sedang;Lembek;Tidak Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Burst Damage;Burst Damage;5
+Claude;4815;137;129;96;Marksman;Burst;Gold Lane;2018;S;Y;Sulit;Lembek;Tidak Sakit;Normal;High;Fast;High;High;Moderate;Moderate;Late Game;Split Push;Split Push;5
+Karina;4815;82;101;97;Assassin;Finisher;Jungling;2016;C;N;Sedang;Lembek;Tidak Sakit;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Early Game;Hero Culik;Hero Culik;5
+Cici;4795;75;1053;98;Fighter;Damage;EXP Lane;2023;S;Y;Sedang;Sedang;Tidak Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Setplay;5
+Arlott;4784;51;19;99;Fighter/Assassin;Charge/Burst;EXP Lane;2023;SS;Y;Sulit;Sedang;Sakit;Normal;Moderate;Fast;Moderate;High;Moderate;Moderate;All Game Phases;Setplay;Tabrak;5
+Kimmy;4768;12;9;100;Marksman/Mage;Damage/Magic Damage;Gold Lane;2018;D;N;Mudah;Lembek;Tidak Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Snowball;Snowball;5
+Zilong;4757;132;78;101;Fighter/Assassin;Chase/Damage;EXP Lane;2016;D;N;Mudah;Lembek;Tidak Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Ciki;Ciki;5
+Alice;475;12;42;102;Mage/Tank;Charge/Regen;EXP Lane/Jungling;2016;C;N;Sedang;Sedang;Tidak Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Tabrak;5
+Kaja;4726;1;14;103;Support/Fighter;Control/Charge;Roaming;2018;A;Y;Sedang;Sedang;Sakit;Tidak Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;UBE;UBE;5
+Guinevere;471;53;88;104;Fighter;Burst;EXP Lane/Roaming/Jungling;2019;A;Y;Sedang;Lembek;Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Ciki;Setplay;5
+Selena;4708;82;228;105;Assassin/Mage;Initiator/Finisher;Roaming/Mid Lane;2018;B;Y;Sulit;Lembek;Sakit;Normal;Moderate;Fast;Moderate;High;Moderate;Moderate;Mid Game;Ciki;Ciki;5
+Jawhead;47;4;43;106;Fighter;Charge;EXP Lane/Jungling;2018;C;N;Mudah;Sedang;Normal;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Setplay;Setplay;5
+Franco;4681;225;1032;107;Tank;Initiator;Roaming;2016;B;Y;Sulit;Sedang;Sakit;Tidak Sakit;Moderate;Fast;Moderate;High;High;High;Mid Game;Setplay;Setplay;5
+Lapu-Lapu;4673;31;8;108;Fighter;Chase;EXP Lane;2017;A;Y;Sedang;Sedang;Normal;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;UBE;5
+Hayabusa;4672;54;111;109;Assassin;Chase;Jungling;2016;B;N;Sulit;Lembek;Tidak Sakit;Sakit;High;Fast;High;High;Moderate;Moderate;Early Game;Snowball;Snowball;5
+Gusion;4659;67;78;110;Assassin;Burst;Jungling;2018;C;N;Sulit;Lembek;Tidak Sakit;Sakit;High;Fast;High;High;Moderate;Moderate;Early Game;Ciki;Ciki;5
+Grock;4657;16;1;111;Tank/Fighter;Crowd Control/Initiator;Roaming;2017;A;Y;Sedang;Keras;Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Tabrak;5
+Paquito;4626;75;122;112;Fighter/Assassin;Chase/Damage;EXP Lane;2021;S;Y;Sulit;Sedang;Sakit;Sakit;Moderate;Fast;Moderate;High;Moderate;Moderate;Mid Game;Tabrak;Tabrak;5
+Lesley;4624;142;102;113;Marksman/Assassin;Finisher/Burst;Gold Lane;2018;C;N;Mudah;Lembek;Tidak Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Snowball;Snowball;5
+Beatrix;4554;4;15;114;Marksman;Finisher;Gold Lane;2021;B;Y;Sulit;Lembek;Tidak Sakit;Sakit;High;Fast;High;High;Moderate;Moderate;Late Game;Snowball;Snowball;5
+Nolan;4553;63;1212;115;Assassin;Chase;Jungling;2023;SS;Y;Sulit;Lembek;Tidak Sakit;Sakit;High;Fast;High;High;Moderate;Moderate;All Game Phases;Snowball;Snowball;5
+Karrie;4501;9;107;116;Marksman;Finisher;Gold Lane;2017;S;Y;Sedang;Lembek;Tidak Sakit;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Late Game;UBE;UBE;5
+Joy;4486;9;202;117;Assassin;Chase;Jungling;2022;S;Y;Sulit;Lembek;Tidak Sakit;Sakit;High;Fast;High;High;Moderate;Moderate;Early Game;Tabrak;Tabrak;5
+Fanny;4483;62;1153;118;Assassin;Chase;Jungling;2016;A;Y;Sulit;Lembek;Tidak Sakit;Sakit;High;Fast;High;High;Moderate;Moderate;Early Game;Ciki;Ciki;5
+Lancelot;4433;102;191;119;Assassin;Chase;Jungling;2017;B;Y;Sulit;Lembek;Tidak Sakit;Sakit;High;Fast;High;High;Moderate;Moderate;Early Game;Snowball;Snowball;5
+Balmond;441;95;77;120;Fighter;Damage;Jungling;2016;D;N;Mudah;Sedang;Tidak Sakit;Normal;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;UBE;5
+Chou;4355;91;142;121;Fighter;Chase;EXP Lane/Roaming;2016;A;Y;Sulit;Sedang;Sakit;Normal;Moderate;Fast;Moderate;High;Moderate;Moderate;Mid Game;Tabrak;Setplay;5
+Valentina;4327;31;52;122;Mage;Burst;Mid Lane;2021;S;Y;Sedang;Lembek;Sakit;Sakit;Moderate;Moderate;Moderate;Moderate;Moderate;Moderate;Mid Game;Tabrak;Setplay;5
+Wanwan;4249;17;42;123;Marksman;Finisher;Gold Lane;2019;D;N;Sulit;Lembek;Tidak Sakit;Sakit;High;Fast;High;High;Moderate;Moderate;Late Game;Snowball;Snowball;5
+Yi Sun-shin;5178;1;6;124;Marksman;Finishing;Jungling;2017;C;N;Lembek;Sakit;Sakit;Sakit;High;Moderate;High;Moderate;Moderate;Moderate;Late Game;Snowball;Snowball;5

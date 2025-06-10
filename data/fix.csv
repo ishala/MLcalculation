@@ -1,0 +1,129 @@
+Hero Name,Hero ID,Roles,Specialties,Recommended Lane,Second Lane,Release year,Tier,Meta,Difficulty,Durability Rating,Ability Effects Rating,Offense Rating,Scaling Rating,Cooldown Rating,Item Dependency Rating,Mobility Rating,Crowd Control Rating,Base Stats Growth Rating,Ultimate Impact Rating,Column1,Gameplay,Sinergi,Win Rate (%),Popularity (%),Ban Rate (%)
+Aamon,640,Assassin,Chase,Jungler,,20210,C,N,Sedang,Lembek,Tidak Sakit,Sakit,High,Moderate,High,High,Moderate,Moderate,Early Game,Hero Culik,Hero Culik,50.0,5065,20,9
+Akai,890,Tank,Guard,Roam,Exp Lane,20160,C,Y,Sedang,Sedang,Sakit,Tidak Sakit,Moderate,Moderate,Moderate,High,High,High,Mid Game,Tabrak,Tabrak,50.0,4899,32,8
+Aldous,550,Fighter,Burst,Exp Lane,Gold Lane,20180,D,N,Mudah,Sedang,Normal,Normal,High,Moderate,High,High,Moderate,Moderate,Mid Game,Mixed,Mixed,50.0,4708,18,6
+Alice,1020,Mage/Tank,Charge/Regen,Exp Lane,Jungler,20160,B,N,Sedang,Sedang,Tidak Sakit,Normal,High,Moderate,High,High,Moderate,Moderate,Mid Game,Tabrak,Tabrak,50.0,5388,39,138
+Alpha,440,Fighter,Charge,Jungler,Exp Lane,20170,D,Y,Mudah,Sedang,Normal,Sakit,High,Fast,High,High,High,Moderate,Mid Game,UBE,Tabrak,50.0,4657,93,16
+Alucard,320,Fighter/Assassin,Chase/Damage,Jungler,Exp Lane,20160,B,N,Mudah,Sedang,Tidak Sakit,Normal,Moderate,Moderate,High,High,Moderate,Moderate,Mid Game,Tabrak,Tabrak,50.0,5344,63,28
+Angela,300,Support,Guard,Roam,Mid Lane,20180,A,Y,Mudah,Lembek,Sakit,Tidak Sakit,Moderate,Moderate,Moderate,High,High,High,All Game Phases,UBE,Tabrak,50.0,5148,221,454
+Argus,40,Fighter,Charge,Exp Lane,Gold Lane,20170,B,N,Mudah,Lembek,Tidak Sakit,Normal,Moderate,Moderate,High,Moderate,Moderate,Moderate,Mid Game,Ciki,Ciki,50.0,5101,46,153
+Arlott,990,Fighter/Assassin,Charge/Burst,Exp Lane,Roam,20230,SS,Y,Sulit,Sedang,Sakit,Normal,Moderate,Fast,High,High,High,Moderate,All Game Phases,Setplay,Tabrak,50.0,4869,28,7
+Atlas,710,Tank,Crowd Control,Roam,,20200,D,N,Sedang,Sedang,Sakit,Tidak Sakit,Moderate,Moderate,Moderate,High,High,High,Mid Game,Tabrak,Tabrak,50.0,4612,28,6
+Aulus,170,Fighter,Damage,Jungler,,20210,D,N,Mudah,Lembek,Tidak Sakit,Normal,High,Moderate,High,Moderate,Moderate,Moderate,Mid Game,Snowball,Snowball,50.0,4974,6,3
+Aurora,750,Mage,Crowd Control,Mid Lane,,20170,D,N,Mudah,Lembek,Normal,Normal,Moderate,Fast,Moderate,Moderate,High,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,4873,42,3
+Badang,560,Fighter,Charge,Exp Lane,Roam,20190,D,N,Mudah,Sedang,Normal,Normal,Moderate,Fast,Moderate,Moderate,High,Moderate,Mid Game,Mixed,Mixed,50.0,5224,268,2360
+Balmond,1200,Fighter,Damage,Jungler,,20160,D,N,Mudah,Sedang,Tidak Sakit,Normal,Moderate,Moderate,High,Moderate,Moderate,Moderate,Mid Game,Tabrak,UBE,50.0,4053,25,16
+Bane,570,Fighter/Mage,Push/Burst,Jungler,,20160,C,N,Mudah,Lembek,Normal,Sakit,High,Moderate,High,Moderate,High,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,5091,27,4
+Barats,60,Tank/Fighter,Damage/Crowd Control,Jungler,Exp Lane,20200,SS,Y,Mudah,Sangat Keras,Sakit,Tidak Sakit,Moderate,Moderate,Moderate,High,High,Moderate,All Game Phases,Tabrak,Setplay,50.0,4825,11,3
+Baxia,810,Tank,Support,Jungler,,20190,S,Y,Sedang,Keras,Tidak Sakit,Tidak Sakit,High,Moderate,High,Moderate,High,High,Mid Game,Tabrak,Tabrak,50.0,5080,5,2
+Beatrix,1140,Marksman,Finisher,Gold Lane,,20210,B,Y,Sulit,Lembek,Tidak Sakit,Sakit,High,Fast,High,High,Moderate,Moderate,Late Game,Snowball,Snowball,50.0,4835,63,6
+Belerick,90,Tank,Crowd Control,Roam,Exp Lane,20180,C,N,Mudah,Sangat Keras,Sakit,Normal,Moderate,Moderate,Moderate,Moderate,High,High,Mid Game,Tabrak,Tabrak,50.0,4798,80,62
+Benedetta,230,Assassin/Fighter,Chase/Burst,Exp Lane,,20200,A,Y,Sulit,Lembek,Normal,Sakit,High,Fast,Moderate,High,Moderate,Moderate,Mid Game,Ciki,Ciki,50.0,4910,69,15
+Brody,620,Marksman,Burst,Gold Lane,,20200,A,Y,Sedang,Sedang,Normal,Sakit,High,Moderate,High,High,Moderate,Moderate,Late Game,Split Push,Split Push,50.0,5122,167,442
+Bruno,930,Marksman,Finisher,Gold Lane,,20160,A,Y,Sedang,Lembek,Tidak Sakit,Sakit,High,Moderate,High,Moderate,Moderate,Moderate,Late Game,Split Push,Split Push,50.0,5086,36,4
+Carmilla,110,Support/Tank,Crowd Control/Damage,Roam,,20200,C,N,Mudah,Sedang,Sakit,Normal,Moderate,Fast,Moderate,Moderate,High,Moderate,Mid Game,Tabrak,Setplay,50.0,5011,64,21
+Cecilion,950,Mage,Poke,Mid Lane,,20200,D,N,Sedang,Lembek,Tidak Sakit,Sakit,High,Moderate,High,Moderate,Moderate,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,5000,284,434
+Chang'e,740,Mage,Poke,Mid Lane,,20180,D,N,Mudah,Lembek,Tidak Sakit,Normal,Moderate,Moderate,High,Moderate,Moderate,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,4867,100,23
+Chip,920,Support/Tank,Support/Crowd Control,Roam,,20240,A,Y,Sedang,Sedang,Sakit,Tidak Sakit,Moderate,Fast,Moderate,High,High,Moderate,Mid Game,Tabrak,Tabrak,50.0,5314,50,2096
+Chou,1210,Fighter,Chase,Roam,Exp Lane,20160,A,Y,Sulit,Sedang,Sakit,Normal,Moderate,Fast,Moderate,High,High,Moderate,Mid Game,Tabrak,Setplay,50.0,4676,145,51
+Cici,980,Fighter,Damage,Exp Lane,,20230,S,Y,Sedang,Sedang,Tidak Sakit,Normal,Moderate,Fast,Moderate,High,High,Moderate,Mid Game,Tabrak,Setplay,50.0,5064,182,191
+Claude,960,Marksman,Burst,Gold Lane,,20180,S,Y,Sulit,Lembek,Tidak Sakit,Normal,High,Fast,High,High,Moderate,Moderate,Late Game,Split Push,Split Push,50.0,4644,62,4
+Clint,730,Marksman,Finisher,Gold Lane,,20160,A,Y,Sedang,Lembek,Tidak Sakit,Sakit,High,Moderate,High,Moderate,Moderate,Moderate,Late Game,Split Push,Split Push,50.0,5002,147,112
+Cyclops,630,Mage,Poke,Mid Lane,,20170,D,N,Mudah,Lembek,Normal,Normal,Moderate,Moderate,High,Moderate,Moderate,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,5014,36,5
+Diggie,360,Support,Guard,Roam,,20170,A,Y,Mudah,Lembek,Sakit,Tidak Sakit,Moderate,Moderate,Moderate,Moderate,High,High,Support,UBE,UBE,50.0,5558,20,121
+Dyrroth,840,Fighter,Charge,Exp Lane,Jungler,20190,A,Y,Sulit,Sedang,Tidak Sakit,Sakit,Moderate,Fast,High,High,Moderate,Moderate,Mid Game,Mixed,Mixed,50.0,4506,28,4
+Edith,70,Tank/Marksman,Control/Burst,Exp Lane,Roam,20210,A,Y,Sedang,Keras,Sakit,Tidak Sakit,Moderate,Moderate,High,High,High,Moderate,Mid Game,Tabrak,Setplay,50.0,5072,26,4
+Esmeralda,660,Mage/Tank,Regen/Mixed Damage,Exp Lane,,20190,B,Y,Mudah,Keras,Tidak Sakit,Normal,Moderate,Fast,High,High,Moderate,Moderate,Mid Game,Tabrak,Tabrak,50.0,4211,21,4
+Estes,400,Support,Regen,Roam,,20170,B,N,Mudah,Lembek,Sakit,Tidak Sakit,Moderate,Moderate,High,Moderate,High,High,Support,UBE,UBE,50.0,4787,51,155
+Eudora,870,Mage,Control,Mid Lane,,20160,C,N,Mudah,Lembek,Tidak Sakit,Sakit,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,4987,45,61
+Fanny,1180,Assassin,Chase,Jungler,,20160,A,Y,Sulit,Lembek,Tidak Sakit,Sakit,High,Fast,High,High,Moderate,Moderate,Early Game,Ciki,Ciki,50.0,4655,112,7834
+Faramis,530,Support/Mage,Guard/Charge,Mid Lane,,20180,SS,Y,Sedang,Lembek,Sakit,Normal,Moderate,Fast,High,High,Moderate,Moderate,All Game Phases,UBE,UBE,50.0,5485,22,11
+Floryn,30,Support,Poke,Roam,,20210,A,Y,Mudah,Lembek,Sakit,Tidak Sakit,Moderate,Moderate,High,Moderate,High,High,Support,UBE,UBE,50.0,5882,143,8278
+Franco,1070,Tank,Initiator,Roam,,20160,B,Y,Sulit,Sedang,Sakit,Tidak Sakit,Moderate,Fast,High,High,High,High,Mid Game,Setplay,Setplay,50.0,4574,172,351
+Fredrinn,380,Fighter/Tank,Damage/Chase,Jungler,,20220,SS,Y,Mudah,Keras,Sakit,Tidak Sakit,High,Fast,High,High,High,Moderate,All Game Phases,Tabrak,UBE,50.0,5282,127,659
+Freya,390,Fighter,Chase,Exp Lane,,20160,B,N,Sedang,Sedang,Normal,Sakit,High,Fast,High,Moderate,Moderate,Moderate,Mid Game,Ciki,Ciki,50.0,5665,64,2275
+Gatotkaca,80,Tank/Fighter,Crowd Control/Burst,Roam,Exp Lane,20170,D,N,Mudah,Keras,Sakit,Tidak Sakit,Moderate,Moderate,Moderate,High,High,Moderate,Mid Game,Tabrak,Setplay,50.0,5256,176,106
+Gloo,210,Tank,Regen,Exp Lane,,20210,B,N,Sedang,Sangat Keras,Normal,Tidak Sakit,Moderate,Moderate,Moderate,High,High,High,Mid Game,Tabrak,Tabrak,50.0,5130,127,4894
+Gord,510,Mage,Poke,Mid Lane,,20160,B,Y,Mudah,Lembek,Normal,Sakit,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,5073,28,7
+Granger,760,Marksman,Burst,Gold Lane,,20190,C,N,Sedang,Lembek,Tidak Sakit,Sakit,High,Moderate,High,High,Moderate,Moderate,Late Game,Split Push,Split Push,50.0,4391,331,2091
+Grock,1110,Tank/Fighter,Crowd Control/Initiator,Roam,Exp Lane,20170,A,Y,Sedang,Keras,Sakit,Normal,Moderate,Moderate,Moderate,High,High,Moderate,Mid Game,Tabrak,Tabrak,50.0,4642,9,2
+Guinevere,1040,Fighter,Burst,Jungler,Roam,20190,A,Y,Sedang,Lembek,Sakit,Normal,Moderate,Moderate,Moderate,High,High,Moderate,Mid Game,Ciki,Setplay,50.0,5019,63,15
+Gusion,1100,Assassin,Burst,Jungler,Mid Lane,20180,C,N,Sulit,Lembek,Tidak Sakit,Sakit,High,Fast,High,High,Moderate,Moderate,Early Game,Ciki,Ciki,50.0,4571,31,7
+Hanabi,820,Marksman,Finisher,Gold Lane,,20180,D,N,Mudah,Lembek,Tidak Sakit,Normal,High,Moderate,High,Moderate,Moderate,Moderate,Late Game,Split Push,Split Push,50.0,4690,40,12
+Hanzo,590,Assassin,Burst,Jungler,,20180,C,N,Mudah,Lembek,Normal,Sakit,High,Fast,High,High,Moderate,Moderate,Early Game,Hero Culik,Hero Culik,50.0,4806,82,5941
+Harith,50,Mage,Chase,Gold Lane,Mid Lane,20180,SS,Y,Sulit,Sedang,Tidak Sakit,Sakit,High,Fast,High,High,Moderate,Moderate,All Game Phases,Tabrak,Setplay,50.0,5093,133,649
+Harley,250,Assassin/Mage,Burst/Poke,Jungler,Mid Lane,20170,C,N,Mudah,Lembek,Tidak Sakit,Sakit,High,Fast,High,High,Moderate,Moderate,Mid Game,Snowball,Snowball,50.0,4874,28,19
+Hayabusa,1090,Assassin,Chase,Jungler,,20160,B,N,Sulit,Lembek,Tidak Sakit,Sakit,High,Fast,High,High,Moderate,Moderate,Early Game,Snowball,Snowball,50.0,5154,165,7028
+Helcurt,340,Assassin,Push,Roam,Jungler,20170,B,Y,Sedang,Lembek,Sakit,Sakit,High,Moderate,High,High,Moderate,Moderate,Early Game,Ciki,Ciki,50.0,5086,30,26
+Hilda,490,Fighter/Tank,Damage/Regen,Roam,Exp Lane,20170,B,N,Mudah,Keras,Tidak Sakit,Sakit,Moderate,Moderate,Moderate,High,Moderate,Moderate,Mid Game,Tabrak,Tabrak,50.0,5176,50,27
+Hylos,20,Tank,Guard,Roam,Exp Lane,20170,C,N,Mudah,Sangat Keras,Sakit,Normal,Moderate,Fast,Moderate,High,High,High,Mid Game,Tabrak,UBE,50.0,4887,124,82
+Irithel,720,Marksman,Finisher,Gold Lane,,20170,C,N,Mudah,Lembek,Tidak Sakit,Normal,High,Moderate,High,High,Moderate,Moderate,Late Game,Split Push,Split Push,50.0,5647,209,181
+Ixia,450,Marksman,Finisher,Gold Lane,,20230,B,Y,Mudah,Lembek,Tidak Sakit,Sakit,High,Moderate,High,Moderate,Moderate,Moderate,Late Game,Snowball,Setplay,50.0,5093,33,11
+Jawhead,1060,Fighter,Charge,Roam,Exp Lane,20180,C,N,Mudah,Sedang,Normal,Sakit,Moderate,Fast,Moderate,High,High,Moderate,Mid Game,Setplay,Setplay,50.0,4913,66,39
+Johnson,580,Tank/Support,Support/Crowd Control,Roam,,20170,D,N,Sedang,Keras,Sakit,Tidak Sakit,Moderate,Moderate,Moderate,High,High,Moderate,Mid Game,Tabrak,Tabrak,50.0,4719,43,20
+Joy,1170,Assassin,Chase,Jungler,,20220,S,Y,Sulit,Lembek,Tidak Sakit,Sakit,High,Fast,High,High,Moderate,Moderate,Early Game,Tabrak,Tabrak,50.0,5191,156,6818
+Julian,780,Fighter/Mage,Chase/Magic Damage,Jungler,Mid Lane,20220,C,N,Sedang,Sedang,Normal,Normal,High,Fast,High,High,Moderate,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,5135,143,1391
+Kadita,860,Mage/Assassin,Burst/Charge,Mid Lane,,20180,B,Y,Sedang,Lembek,Normal,Sakit,Moderate,Moderate,High,High,High,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,5109,28,4
+Kagura,850,Mage,Poke,Mid Lane,,20160,D,N,Sulit,Lembek,Normal,Sakit,Moderate,Fast,Moderate,High,Moderate,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,4889,69,8
+Kaja,1030,Support/Fighter,Control/Charge,Roam,,20180,A,Y,Sedang,Sedang,Sakit,Tidak Sakit,Moderate,Moderate,Moderate,High,High,Moderate,Mid Game,UBE,UBE,50.0,5128,20,8
+Kalea,1280,Tank/Fighter,Crowd Control,Roam,Exp Lane,20250,SS,Y,Sedang,Sedang,Sakit,Sakit,Moderate,Moderate,Moderate,High,High,Moderate,Late Game,Tabrak,Setplay,50.0,5577,79,9754
+Karina,970,Assassin,Finisher,Jungler,,20160,C,N,Sedang,Lembek,Tidak Sakit,Sakit,High,Fast,High,High,Moderate,Moderate,Early Game,Hero Culik,Hero Culik,50.0,4694,45,87
+Karrie,1160,Marksman,Finisher,Gold Lane,,20170,S,Y,Sedang,Lembek,Tidak Sakit,Sakit,High,Fast,High,High,Moderate,Moderate,Late Game,UBE,UBE,50.0,4743,68,22
+Khaleed,120,Fighter,Damage,Exp Lane,Roam,20200,B,N,Sulit,Sedang,Sakit,Sakit,Moderate,Fast,Moderate,High,High,Moderate,Mid Game,Tabrak,Setplay,50.0,5129,57,6
+Khufra,790,Tank,Initiator,Roam,,20190,B,Y,Sedang,Keras,Sakit,Tidak Sakit,Moderate,Moderate,Moderate,Moderate,High,High,Mid Game,Tabrak,Tabrak,50.0,5018,62,28
+Kimmy,1000,Marksman/Mage,Damage/Magic Damage,Gold Lane,,20180,D,N,Mudah,Lembek,Tidak Sakit,Normal,High,Fast,High,Moderate,Moderate,Moderate,Mid Game,Snowball,Snowball,50.0,4756,164,1228
+Lancelot,1190,Assassin,Chase,Jungler,,20170,B,Y,Sulit,Lembek,Tidak Sakit,Sakit,High,Fast,High,High,Moderate,Moderate,Early Game,Snowball,Snowball,50.0,4257,45,8
+Lapu-Lapu,1080,Fighter,Chase,Exp Lane,,20170,A,Y,Sedang,Sedang,Normal,Normal,Moderate,Fast,Moderate,High,Moderate,Moderate,Mid Game,Tabrak,UBE,50.0,4611,20,1
+Layla,690,Marksman,Finisher,Gold Lane,,20160,D,N,Mudah,Lembek,Tidak Sakit,Normal,High,Moderate,High,Moderate,Moderate,Moderate,Late Game,Split Push,Split Push,50.0,4890,83,64
+Leomord,900,Fighter,Chase,Jungler,,20180,C,N,Sedang,Lembek,Normal,Sakit,Moderate,Moderate,High,Moderate,Moderate,Moderate,Mid Game,Mixed,Mixed,50.0,4858,55,50
+Lesley,1130,Marksman/Assassin,Finisher/Burst,Gold Lane,,20180,C,N,Mudah,Lembek,Tidak Sakit,Sakit,Moderate,Fast,High,High,Moderate,Moderate,Mid Game,Snowball,Snowball,50.0,4159,34,6
+Ling,310,Assassin,Chase,Jungler,,20190,A,Y,Sangat Sulit,Lembek,Normal,Sakit,High,Moderate,High,High,Moderate,Moderate,Early Game,Tabrak,Snowball,50.0,4964,127,92
+Lolita,10,Support/Tank,Guard/Crowd Control,Roam,,20160,C,N,Mudah,Keras,Sakit,Tidak Sakit,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Mid Game,UBE,Setplay,50.0,5925,22,28
+Lukas,1270,Fighter,Crowd Control/Initiator,Exp Lane,Jungler,20250,S,Y,Mudah,Keras,Sakit,Sakit,High,Fast,High,High,High,Moderate,Mid Game,Tabrak,Setplay,,5242,204,7005
+Lunox,650,Mage,Burst,Mid Lane,,20180,B,Y,Sulit,Lembek,Tidak Sakit,Sakit,High,Fast,High,High,Moderate,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,5016,65,9
+Luo Yi,420,Mage,Support,Mid Lane,,20200,SS,Y,Sedang,Lembek,Sakit,Sakit,Moderate,Fast,High,High,Moderate,Moderate,All Game Phases,UBE,Setplay,50.0,4959,45,16
+Lylia,500,Mage,Push,Mid Lane,,20190,A,Y,Sedang,Lembek,Sakit,Sakit,High,Moderate,High,Moderate,Moderate,Moderate,Mid Game,Tabrak,Tabrak,50.0,4606,45,4
+Martis,940,Fighter,Finisher,Jungler,,20180,A,Y,Mudah,Sedang,Normal,Normal,Moderate,Moderate,Moderate,Moderate,High,Moderate,Mid Game,Mixed,Mixed,50.0,4572,24,4
+Masha,130,Fighter/Tank,Push/Damage,Exp Lane,Roam,20190,S,Y,Sedang,Sangat Keras,Tidak Sakit,Sakit,Moderate,Fast,Moderate,High,Moderate,Moderate,Mid Game,Tabrak,Tabrak,50.0,5463,25,22
+Mathilda,830,Support/Assassin,Initiator/Guard,Roam,Mid Lane,20200,SS,Y,Sulit,Sedang,Sakit,Tidak Sakit,Moderate,Fast,High,High,Moderate,Moderate,All Game Phases,UBE,UBE,50.0,5169,180,3071
+Melissa,180,Marksman,Finisher,Gold Lane,,20220,C,N,Sedang,Lembek,Normal,Sakit,High,Moderate,High,Moderate,Moderate,Moderate,Late Game,Snowball,Snowball,50.0,5340,62,146
+Minotaur,200,Tank/Support,Crowd Control/Support,Roam,,20160,SS,Y,Mudah,Keras,Sakit,Tidak Sakit,Moderate,Fast,High,Moderate,High,Moderate,All Game Phases,Tabrak,Setplay,50.0,5215,39,7
+Minsitthar,470,Fighter,Initiator,Exp Lane,Roam,20180,B,N,Mudah,Lembek,Sakit,Normal,Moderate,Moderate,Moderate,Moderate,High,Moderate,Mid Game,Tabrak,Setplay,50.0,4892,41,39
+Miya,670,Marksman,Finisher,Gold Lane,,20160,C,N,Mudah,Lembek,Tidak Sakit,Normal,High,Moderate,High,Moderate,Moderate,Moderate,Late Game,Split Push,Split Push,50.0,4961,56,37
+Moskov,100,Marksman,Finisher,Gold Lane,,20170,A,Y,Sedang,Lembek,Tidak Sakit,Normal,High,Moderate,High,High,High,Moderate,Late Game,UBE,Setplay,50.0,5309,195,56
+Nana,800,Mage,Poke,Mid Lane,,20160,A,Y,Mudah,Lembek,Normal,Normal,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,4372,46,20
+Natalia,430,Assassin,Chase,Roam,,20160,D,Y,Sedang,Lembek,Tidak Sakit,Sakit,Moderate,Fast,High,High,Moderate,Moderate,Early Game,Ciki,Ciki,50.0,4934,12,13
+Natan,190,Marksman,Burst,Gold Lane,,20210,SS,Y,Sedang,Lembek,Tidak Sakit,Sakit,High,Fast,High,Moderate,Moderate,Moderate,All Game Phases,Snowball,Snowball,50.0,5127,151,480
+Nolan,1150,Assassin,Chase,Jungler,,20230,SS,Y,Sulit,Lembek,Tidak Sakit,Sakit,High,Fast,High,High,Moderate,Moderate,All Game Phases,Snowball,Snowball,50.0,4827,34,17
+Novaria,600,Mage,Burst,Mid Lane,,20230,SS,Y,Sangat Sulit,Lembek,Sakit,Sakit,Moderate,Moderate,High,High,Moderate,Moderate,All Game Phases,Burst Damage,Burst Damage,50.0,5118,124,70
+Odette,330,Mage,Burst,Mid Lane,,20170,A,Y,Mudah,Lembek,Normal,Sakit,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Mid Game,Setplay,Setplay,50.0,5060,30,3
+Paquito,1120,Fighter/Assassin,Chase/Damage,Exp Lane,,20210,S,Y,Sulit,Sedang,Sakit,Sakit,High,Fast,Moderate,High,Moderate,Moderate,Mid Game,Tabrak,Tabrak,50.0,4292,17,2
+Pharsa,910,Mage,Burst,Mid Lane,,20170,B,N,Sedang,Lembek,Sakit,Sakit,High,Moderate,High,High,Moderate,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,5079,109,28
+Phoveus,370,Fighter,Chase,Exp Lane,,20210,B,Y,Sedang,Sedang,Sakit,Tidak Sakit,Moderate,Fast,Moderate,Moderate,High,Moderate,Mid Game,Tabrak,Tabrak,50.0,5284,168,531
+Popol and Kupa,160,Marksman,Push,Gold Lane,Jungler,20200,C,N,Mudah,Lembek,Tidak Sakit,Normal,High,Moderate,High,Moderate,Moderate,Moderate,Late Game,Ciki,Ciki,50.0,5545,37,28
+Rafaela,270,Support,Regen,Roam,,20160,A,Y,Mudah,Lembek,Tidak Sakit,Tidak Sakit,Moderate,Moderate,Moderate,Moderate,Moderate,High,Support,UBE,UBE,50.0,4891,18,9
+Roger,290,Fighter/Marksman,Finisher/Burst,Jungler,Gold Lane,20170,S,Y,Sedang,Sedang,Tidak Sakit,Sakit,Moderate,Fast,High,High,Moderate,Moderate,Mid Game,Tabrak,Setplay,50.0,4489,19,3
+Ruby,410,Fighter,Crowd Control,Exp Lane,Roam,20170,S,Y,Mudah,Sedang,Sakit,Normal,Moderate,Fast,Moderate,High,High,Moderate,Mid Game,UBE,Tabrak,50.0,4943,82,10
+Saber,520,Assassin,Charge,Jungler,Roam,20160,C,N,Mudah,Lembek,Normal,Sakit,Moderate,Fast,High,High,Moderate,Moderate,Early Game,Hero Culik,Hero Culik,50.0,4916,31,275
+Selena,1050,Assassin/Mage,Initiator/Finisher,Mid Lane,Jungler,20180,B,Y,Sulit,Lembek,Sakit,Normal,Moderate,Fast,High,High,High,Moderate,Mid Game,Ciki,Ciki,50.0,4921,285,3965
+Silvanna,240,Fighter,Initiator,Exp Lane,,20190,D,N,Mudah,Sedang,Normal,Normal,Moderate,Moderate,Moderate,Moderate,High,Moderate,Mid Game,Setplay,Setplay,50.0,4703,14,2
+Sun,350,Fighter,Push,Jungler,Exp Lane,20160,D,N,Mudah,Sedang,Tidak Sakit,Normal,Moderate,Moderate,High,Moderate,Moderate,Moderate,Mid Game,Ciki,Ciki,50.0,5025,67,83
+Suyou,1260,Fighter/Assassin,Burst,Jungler,,20240,A,Y,Sedang,Sedang,Normal,Sakit,High,Fast,High,High,Moderate,Moderate,Early Game,Tabrak,Setplay,50.0,4792,235,2856
+Terizla,140,Fighter/Tank,Burst/Crowd Control,Exp Lane,,20190,A,Y,Mudah,Sangat Keras,Sakit,Normal,Moderate,Fast,Moderate,Moderate,High,Moderate,Mid Game,Tabrak,Setplay,50.0,4865,33,3
+Thamuz,610,Fighter,Chase,Exp Lane,,20180,B,Y,Mudah,Keras,Tidak Sakit,Normal,Moderate,Fast,High,High,Moderate,Moderate,Mid Game,Mixed,Mixed,50.0,4557,17,2
+Tigreal,700,Tank,Crowd Control,Roam,,20160,A,Y,Sedang,Keras,Sakit,Tidak Sakit,Moderate,Moderate,Moderate,Moderate,High,High,Mid Game,Tabrak,Tabrak,50.0,4500,154,95
+Uranus,260,Tank,Regen,Exp Lane,,20180,B,N,Mudah,Sangat Keras,Tidak Sakit,Tidak Sakit,High,Fast,High,Moderate,High,High,Mid Game,Tabrak,Tabrak,50.0,4733,14,2
+Vale,220,Mage,Burst,Mid Lane,,20190,D,N,Sedang,Lembek,Sakit,Sakit,Moderate,Fast,Moderate,Moderate,High,Moderate,Mid Game,Setplay,Setplay,50.0,4849,24,2
+Valentina,1220,Mage,Burst,Mid Lane,,20210,S,Y,Sedang,Lembek,Sakit,Sakit,Moderate,Fast,High,High,Moderate,Moderate,Mid Game,Tabrak,Setplay,50.0,4589,53,28
+Valir,770,Mage,Damage,Mid Lane,,20180,D,N,Sedang,Lembek,Normal,Normal,Moderate,Fast,High,Moderate,High,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,4885,73,66
+Vexana,280,Mage,Poke,Mid Lane,,20170,SS,Y,Mudah,Lembek,Sakit,Sakit,Moderate,Fast,High,Moderate,High,Moderate,All Game Phases,Setplay,Setplay,50.0,5002,94,9
+Wanwan,1230,Marksman,Finisher,Gold Lane,,20190,D,N,Sulit,Lembek,Tidak Sakit,Sakit,High,Fast,High,High,Moderate,Moderate,Late Game,Snowball,Snowball,50.0,5631,73,219
+X.Borg,460,Fighter,Regen,Exp Lane,Jungler,20190,SS,Y,Mudah,Sedang,Normal,Sakit,High,Moderate,High,Moderate,Moderate,Moderate,All Game Phases,Tabrak,UBE,50.0,4743,57,11
+Xavier,540,Mage,Damage,Mid Lane,,20220,B,N,Sedang,lembek,Sakit,Sakit,Moderate,Moderate,High,High,Moderate,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,5297,158,28
+Yi Sun-shin,1240,Marksman,Finishing,Jungler,,20170,C,N,Lembek,Sakit,Sakit,Sakit,High,Moderate,High,High,Moderate,Moderate,Late Game,Snowball,Snowball,50.0,4664,137,737
+Yin,480,Fighter/Assassin,Burst/Control,Jungler,Exp Lane,20220,C,N,Mudah,Lembek,Tidak Sakit,Normal,Moderate,Moderate,High,High,Moderate,Moderate,Mid Game,Ciki,Ciki,50.0,4805,28,38
+Yu Zhong,680,Fighter,Regen,Exp Lane,,20200,S,Y,Sedang,Keras,Sakit,Normal,Moderate,Moderate,Moderate,Moderate,High,Moderate,Mid Game,Mixed,Mixed,50.0,4821,56,5
+Yve,880,Mage,Burst,Mid Lane,,20210,B,N,Mudah,Lembek,Sakit,Normal,Moderate,Moderate,High,High,High,Moderate,Mid Game,Burst Damage,Burst Damage,50.0,5190,18,4
+Zhask,150,Mage,Chase,Mid Lane,,20170,B,N,Mudah,Sedang,Tidak Sakit,Normal,Moderate,Moderate,High,Moderate,Moderate,Moderate,Mid Game,Setplay,Setplay,50.0,5191,36,7
+Zhuxin,1250,Mage,Poke,Mid Lane,,20240,A,Y,Sedang,Lembek,Sakit,Sakit,High,Fast,High,High,High,Moderate,Mid Game,Tabrak,Setplay,50.0,4960,121,3461
+Zilong,1010,Fighter/Assassin,Chase/Damage,Exp Lane,Gold Lane,20160,D,N,Mudah,Lembek,Tidak Sakit,Normal,Moderate,Moderate,High,Moderate,Moderate,Moderate,Mid Game,Ciki,Ciki,50.0,4899,53,28

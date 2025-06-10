@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hero Selection</title>
+    <!-- Mengimpor Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../static/style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Boldonse&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Boldonse&family=Lilita+One&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="background-image"></div>
+
+<div class="container mt-5">
+    <h1 class="text-center">Select Heroes for Your Teams</h1>
+
+    <!-- Form untuk memilih hero -->
+    <form action="/predict" method="POST">
+        <div class="row">
+            <!-- Tim 1 -->
+            <div class="col-md-6">
+                <h4>Team 1</h4>
+                <div class="mb-3">
+                    <label for="team1_hero_1" class="form-label">
+                        <img src="../static/jungler.svg" alt="Jungler" class="role-icon"> Jungler</label>
+                    <select class="form-select" id="team1_hero_1" name="team1_hero_1">
+                        <option value="">Select Hero</option>
+                        {% for hero in heroes %}
+                            <option value="{{ hero['Hero Name'] }}">
+                                {{ hero['Hero Name'] }} ({{ hero['Recommended Lane'] }}, {% if hero['Second Lane'] and hero['Second Lane']|string != 'nan' %}{{ hero['Second Lane'] }}{% endif %})
+                                {{ hero['Tier'] }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="team1_hero_2" class="form-label">
+                        <img src="../static/midlaner.svg" alt="Mid Laner" class="role-icon"> Mid Laner</label>
+                    <select class="form-select" id="team1_hero_2" name="team1_hero_2">
+                        <option value="">Select Hero</option>
+                        {% for hero in heroes %}
+                            <option value="{{ hero['Hero Name'] }}">
+                                {{ hero['Hero Name'] }} ({{ hero['Recommended Lane'] }}, {% if hero['Second Lane'] and hero['Second Lane']|string != 'nan' %}{{ hero['Second Lane'] }}{% endif %})
+                                {{ hero['Tier'] }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="team1_hero_3" class="form-label">
+                        <img src="../static/goldlaner.svg" alt="Gold Laner" class="role-icon"> Gold Laner</label>
+                    <select class="form-select" id="team1_hero_3" name="team1_hero_3">
+                        <option value="">Select Hero</option>
+                        {% for hero in heroes %}
+                            <option value="{{ hero['Hero Name'] }}">
+                                {{ hero['Hero Name'] }} ({{ hero['Recommended Lane'] }}, {% if hero['Second Lane'] and hero['Second Lane']|string != 'nan' %}{{ hero['Second Lane'] }}{% endif %})
+                                {{ hero['Tier'] }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="team1_hero_4" class="form-label">
+                        <img src="../static/explaner.svg" alt="Exp Laner" class="role-icon"> Exp Laner</label>
+                    <select class="form-select" id="team1_hero_4" name="team1_hero_4">
+                        <option value="">Select Hero</option>
+                        {% for hero in heroes %}
+                            <option value="{{ hero['Hero Name'] }}">
+                                {{ hero['Hero Name'] }} ({{ hero['Recommended Lane'] }}, {% if hero['Second Lane'] and hero['Second Lane']|string != 'nan' %}{{ hero['Second Lane'] }}{% endif %})
+                                {{ hero['Tier'] }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="team1_hero_5" class="form-label">
+                        <img src="../static/roamer.svg" alt="Roamer" class="role-icon"> Roamer</label>
+                    <select class="form-select" id="team1_hero_5" name="team1_hero_5">
+                        <option value="">Select Hero</option>
+                        {% for hero in heroes %}
+                            <option value="{{ hero['Hero Name'] }}">
+                                {{ hero['Hero Name'] }} ({{ hero['Recommended Lane'] }}, {% if hero['Second Lane'] and hero['Second Lane']|string != 'nan' %}{{ hero['Second Lane'] }}{% endif %})
+                                {{ hero['Tier'] }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+
+            <!-- Tim 2 -->
+            <div class="col-md-6">
+                <h4>Team 2</h4>
+                <div class="mb-3">
+                    <label for="team2_hero_1" class="form-label">
+                        <img src="../static/jungler.svg" alt="Jungler" class="role-icon"> Jungler</label>
+                    <select class="form-select" id="team2_hero_1" name="team2_hero_1">
+                        <option value="">Select Hero</option>
+                        {% for hero in heroes %}
+                            <option value="{{ hero['Hero Name'] }}">
+                                {{ hero['Hero Name'] }} ({{ hero['Recommended Lane'] }}, {% if hero['Second Lane'] and hero['Second Lane']|string != 'nan' %}{{ hero['Second Lane'] }}{% endif %})
+                                {{ hero['Tier'] }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="team2_hero_2" class="form-label">
+                        <img src="../static/midlaner.svg" alt="Mid Laner" class="role-icon"> Mid Laner</label>
+                    <select class="form-select" id="team2_hero_2" name="team2_hero_2">
+                        <option value="">Select Hero</option>
+                        {% for hero in heroes %}
+                            <option value="{{ hero['Hero Name'] }}">
+                                {{ hero['Hero Name'] }} ({{ hero['Recommended Lane'] }}, {% if hero['Second Lane'] and hero['Second Lane']|string != 'nan' %}{{ hero['Second Lane'] }}{% endif %})
+                                {{ hero['Tier'] }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="team2_hero_3" class="form-label">
+                        <img src="../static/goldlaner.svg" alt="Gold Laner" class="role-icon"> Gold Laner</label>
+                    <select class="form-select" id="team2_hero_3" name="team2_hero_3">
+                        <option value="">Select Hero</option>
+                        {% for hero in heroes %}
+                            <option value="{{ hero['Hero Name'] }}">
+                                {{ hero['Hero Name'] }} ({{ hero['Recommended Lane'] }}, {% if hero['Second Lane'] and hero['Second Lane']|string != 'nan' %}{{ hero['Second Lane'] }}{% endif %})
+                                {{ hero['Tier'] }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="team2_hero_4" class="form-label">
+                        <img src="../static/explaner.svg" alt="Exp Laner" class="role-icon"> Exp Laner</label>
+                    <select class="form-select" id="team2_hero_4" name="team2_hero_4">
+                        <option value="">Select Hero</option>
+                        {% for hero in heroes %}
+                            <option value="{{ hero['Hero Name'] }}">
+                                {{ hero['Hero Name'] }} ({{ hero['Recommended Lane'] }}, {% if hero['Second Lane'] and hero['Second Lane']|string != 'nan' %}{{ hero['Second Lane'] }}{% endif %})
+                                {{ hero['Tier'] }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="team2_hero_5" class="form-label">
+                        <img src="../static/roamer.svg" alt="Roamer" class="role-icon"> Roamer</label>
+                    <select class="form-select" id="team2_hero_5" name="team2_hero_5">
+                        <option value="">Select Hero</option>
+                        {% for hero in heroes %}
+                            <option value="{{ hero['Hero Name'] }}">
+                                {{ hero['Hero Name'] }} ({{ hero['Recommended Lane'] }}, {% if hero['Second Lane'] and hero['Second Lane']|string != 'nan' %}{{ hero['Second Lane'] }}{% endif %})
+                                {{ hero['Tier'] }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal Error -->
+        <div class="modal fade" id="errorModal" tabindex="-1" aria-labelledby="errorModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="errorModalLabel">Error</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <strong>Error: </strong> Harap pilih hero untuk semua posisi di kedua tim!
+                    </div>
+                </div>
+            </div>
+        </div>   
+
+        <!-- Tombol untuk submit -->
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary">Predict</button>
+        </div>
+    </form>
+</div>
+
+<!-- Mengimpor Bootstrap JS dan Popper.js -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
+
+<script>
+    {% if error %}
+        // Menampilkan modal ketika ada error
+        var myModal = new bootstrap.Modal(document.getElementById('errorModal'), {
+            keyboard: false
+        });
+        myModal.show();
+    {% endif %}
+</script>
+
+</body>
+</html>
