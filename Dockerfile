@@ -1,5 +1,4 @@
-#import image python
-FROM python:3.11.4-alpine
+FROM python:3.11.4-slim
 
 WORKDIR /app
 
